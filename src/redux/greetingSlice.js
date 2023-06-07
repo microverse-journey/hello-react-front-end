@@ -5,7 +5,7 @@ const initialState = {
 };
 
 export const getGreetings = createAsyncThunk('getGreetings', async () => {
-  const data = await fetch('/api/greetings');
+  const data = await fetch('http://localhost:3000/api/greetings');
   const res = await data.json();
   return res;
 });
