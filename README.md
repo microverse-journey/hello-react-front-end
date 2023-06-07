@@ -1,4 +1,4 @@
-# hello-react-back-end
+# hello-react-front-end
 
 <a name="readme-top"></a>
 
@@ -54,7 +54,7 @@
 
 ## 🚀 Link to Back-end <a name="back-end"></a>
 
-- [Link to Back-end](https://github.com/mrprotocoll/hello-rails-back-end.git)
+- [Link to Back-end](https://github.com/microverse-journey/hello-rails-back-end.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
